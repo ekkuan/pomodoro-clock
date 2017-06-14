@@ -1,0 +1,23 @@
+{
+  "name": "pomodoro-clock",
+  "version": "1.0.0",
+  "description": "Productivity timer with task list ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekkuan/pomodoro-clock.git"
+  },
+  "author": "Eric Kuan & Andrew Leung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekkuan/pomodoro-clock/issues"
+  },
+  "homepage": "https://github.com/ekkuan/pomodoro-clock#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "sleep": "^5.1.1"
+  }
+}
