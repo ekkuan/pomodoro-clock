@@ -5,6 +5,11 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Visual Studio
+*.opensdf
+*.VC.opendb 
+*.VC.db
+
 # Runtime data
 pids
 *.pid
